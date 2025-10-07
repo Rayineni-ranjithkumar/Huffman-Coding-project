@@ -7,3 +7,6 @@ It is used for data compression and gives shorter binary codes to characters tha
 The program builds a Huffman codes in preorder traversal and algorithm helps reduce the total size of data without losing information.
 
 This project shows how greedy algorithms work in real-world data compression.
+
+Code: https://github.com/Rayineni-ranjithkumar/Huffman-Coding-project/blob/main/Project-5.cpp
+
